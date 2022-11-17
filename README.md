@@ -60,6 +60,25 @@ streamlit run src/main.py
 pytest src/tests.py
 ```
 
+## 👥 Autores
+<table  style="text-align:center; border: none" >
+<tr>
+
+<td align="center"> 
+<a href="https://github.com/itmoura" style="text-align:center;">
+<img style="border-radius: 20%;" src="https://github.com/itmoura.png" width="120px;" alt="autor"/><br> <strong> Ítalo Moura </strong>
+</a>
+</td>
+
+<td align="center"> 
+<a href="https://github.com/dimeleone" styles="text-align:center;">
+<img style="border-radius: 20%;" src="https://github.com/dimeleone.png" width="120px;" alt="autor"/><br><strong> Dimitri Leone </strong>
+</a>
+</td>
+
+</tr>
+</table>
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
